@@ -19,7 +19,7 @@ public Login() {}
     
     public Login(String username, String password, String cellPhone, String firstName, String lastName) {
 this.username = username;
-this.password = password;
+this.password = password; 
 this.cellPhone = cellPhone;
 
 this.firstName = firstName;
